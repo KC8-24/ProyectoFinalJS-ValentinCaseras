@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Body Triangle Blue",
+        "id": 1,
+        "descripcion": "Body Azul",
+        "precio": 900,
+        "cantidad": 1,
+        "img": "assets/Captura4.PNG"
+    },
+    {
+        "nombre": "Body Triangle White",
+        "id": 2,
+        "descripcion": "Body Blanco",
+        "precio": 1000,
+        "cantidad": 1,
+        "img": "assets/Captura2.PNG"
+    },
+    {
+        "nombre": "Body Triangle Black",
+        "id": 3,
+        "descripcion": "Body Negro",
+        "precio": 800,
+        "cantidad": 1,
+        "img": "assets/Captura.PNG"
+    }
+]
